@@ -1,0 +1,14 @@
+{
+  "biome.mushroomforest.mushroom_forest": "Mushroom Forest",
+  "entity.mushroomforest.mushroom_fairy": "Mushroom Fairy",
+  "item.mushroomforest.mushroom_fairy_spawn_egg": "Mushroom Fairy Spawn Egg",
+  "subtitles.mushroomforest.mushroom_fairy.ambient": "Mushroom Fairy hums",
+  "subtitles.mushroomforest.mushroom_fairy.hurt": "Mushroom Fairy squeaks",
+  "subtitles.mushroomforest.mushroom_fairy.death": "Mushroom Fairy fades away",
+  "subtitles.mushroomforest.mushroom_fairy.heal": "Mushroom Fairy heals you",
+  "subtitles.mushroomforest.mushroom_fairy.giggle": "Mushroom Fairy giggles",
+  "block.mushroomforest.rosy_mushroom_block": "Rosy Mushroom Block",
+  "block.mushroomforest.lavender_mushroom_block": "Lavender Mushroom Block",
+  "block.mushroomforest.azure_mushroom_block": "Azure Mushroom Block",
+  "block.mushroomforest.buttercup_mushroom_block": "Buttercup Mushroom Block"
+}

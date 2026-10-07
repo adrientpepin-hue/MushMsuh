@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:random_selector",
+  "default": {
+    "feature": "mushroomforest:giant_toadstool_red",
+    "placement": []
+  },
+  "features": [
+    {
+      "chance": 0.2,
+      "feature": {
+        "feature": "mushroomforest:giant_toadstool_rosy",
+        "placement": []
+      }
+    },
+    {
+      "chance": 0.25,
+      "feature": {
+        "feature": "mushroomforest:giant_toadstool_lavender",
+        "placement": []
+      }
+    },
+    {
+      "chance": 0.333333,
+      "feature": {
+        "feature": "mushroomforest:giant_toadstool_azure",
+        "placement": []
+      }
+    },
+    {
+      "chance": 0.5,
+      "feature": {
+        "feature": "mushroomforest:giant_toadstool_buttercup",
+        "placement": []
+      }
+    }
+  ]
+}

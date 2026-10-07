@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mushroomforest:rosy_mushroom_block",
+    "mushroomforest:lavender_mushroom_block",
+    "mushroomforest:azure_mushroom_block",
+    "mushroomforest:buttercup_mushroom_block"
+  ]
+}

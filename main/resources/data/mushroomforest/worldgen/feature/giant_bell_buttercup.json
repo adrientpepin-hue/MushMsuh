@@ -1,0 +1,33 @@
+{
+  "type": "mushroomforest:giant_mushroom",
+  "cap_provider": {
+    "id": "mushroomforest:buttercup_mushroom_block",
+    "properties": {
+      "down": "true",
+      "east": "true",
+      "north": "true",
+      "south": "true",
+      "up": "true",
+      "west": "true"
+    }
+  },
+  "stem_provider": {
+    "id": "minecraft:mushroom_stem",
+    "properties": {
+      "down": "false",
+      "east": "true",
+      "north": "true",
+      "south": "true",
+      "up": "false",
+      "west": "true"
+    }
+  },
+  "shape": "bell",
+  "min_height": 5,
+  "max_height": 9,
+  "min_radius": 3,
+  "max_radius": 5,
+  "lantern_chance": 0.4,
+  "lean_chance": 0.25,
+  "thick_stem_radius": 5
+}

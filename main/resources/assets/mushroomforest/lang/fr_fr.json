@@ -1,0 +1,14 @@
+{
+  "biome.mushroomforest.mushroom_forest": "Forêt de champignons",
+  "entity.mushroomforest.mushroom_fairy": "Fée champignon",
+  "item.mushroomforest.mushroom_fairy_spawn_egg": "Œuf d'apparition de fée champignon",
+  "subtitles.mushroomforest.mushroom_fairy.ambient": "Une fée champignon fredonne",
+  "subtitles.mushroomforest.mushroom_fairy.hurt": "Une fée champignon couine",
+  "subtitles.mushroomforest.mushroom_fairy.death": "Une fée champignon s'évanouit",
+  "subtitles.mushroomforest.mushroom_fairy.heal": "Une fée champignon vous soigne",
+  "subtitles.mushroomforest.mushroom_fairy.giggle": "Une fée champignon rigole",
+  "block.mushroomforest.rosy_mushroom_block": "Bloc de champignon rose",
+  "block.mushroomforest.lavender_mushroom_block": "Bloc de champignon lavande",
+  "block.mushroomforest.azure_mushroom_block": "Bloc de champignon azur",
+  "block.mushroomforest.buttercup_mushroom_block": "Bloc de champignon bouton-d'or"
+}

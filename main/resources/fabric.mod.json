@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "mushroomforest",
+	"version": "${version}",
+	"name": "Mushroom Forest",
+	"description": "A cozy, whimsical forest of giant rainbow mushrooms, fairy rings and fireflies - home of the little Mushroom Fairies, who heal you for a mushroom.",
+	"authors": [
+		"You"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/mushroomforest/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.mushroomforest.MushroomForest"
+		],
+		"client": [
+			"com.mushroomforest.client.MushroomForestClient"
+		]
+	},
+	"mixins": [
+		"mushroomforest.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

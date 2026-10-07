@@ -1,0 +1,112 @@
+{
+  "entity.mushroom_fairy.ambient": {
+    "sounds": [
+      {
+        "name": "minecraft:mob/allay/idle_without_item1",
+        "pitch": 1.45,
+        "volume": 0.3
+      },
+      {
+        "name": "minecraft:mob/allay/idle_without_item2",
+        "pitch": 1.45,
+        "volume": 0.3
+      },
+      {
+        "name": "minecraft:mob/allay/idle_without_item3",
+        "pitch": 1.45,
+        "volume": 0.3
+      },
+      {
+        "name": "minecraft:mob/allay/idle_without_item4",
+        "pitch": 1.45,
+        "volume": 0.3
+      }
+    ],
+    "subtitle": "subtitles.mushroomforest.mushroom_fairy.ambient"
+  },
+  "entity.mushroom_fairy.hurt": {
+    "sounds": [
+      {
+        "name": "minecraft:mob/allay/hurt1",
+        "pitch": 1.8,
+        "volume": 0.7
+      },
+      {
+        "name": "minecraft:mob/allay/hurt2",
+        "pitch": 1.8,
+        "volume": 0.7
+      }
+    ],
+    "subtitle": "subtitles.mushroomforest.mushroom_fairy.hurt"
+  },
+  "entity.mushroom_fairy.death": {
+    "sounds": [
+      {
+        "name": "minecraft:mob/allay/death1",
+        "pitch": 1.6,
+        "volume": 0.6
+      },
+      {
+        "name": "minecraft:mob/allay/death2",
+        "pitch": 1.6,
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "subtitles.mushroomforest.mushroom_fairy.death"
+  },
+  "entity.mushroom_fairy.heal": {
+    "sounds": [
+      {
+        "name": "minecraft:block/amethyst/shimmer",
+        "pitch": 1.3,
+        "volume": 0.8
+      },
+      {
+        "name": "minecraft:mob/allay/item_given1",
+        "pitch": 1.4,
+        "volume": 0.5
+      },
+      {
+        "name": "minecraft:mob/allay/item_given2",
+        "pitch": 1.4,
+        "volume": 0.5
+      },
+      {
+        "name": "minecraft:mob/allay/item_given3",
+        "pitch": 1.4,
+        "volume": 0.5
+      },
+      {
+        "name": "minecraft:mob/allay/item_given4",
+        "pitch": 1.4,
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.mushroomforest.mushroom_fairy.heal"
+  },
+  "entity.mushroom_fairy.giggle": {
+    "sounds": [
+      {
+        "name": "minecraft:mob/allay/item_given1",
+        "pitch": 1.7,
+        "volume": 0.4
+      },
+      {
+        "name": "minecraft:mob/allay/item_given2",
+        "pitch": 1.7,
+        "volume": 0.4
+      },
+      {
+        "name": "minecraft:mob/allay/item_given3",
+        "pitch": 1.7,
+        "volume": 0.4
+      },
+      {
+        "name": "minecraft:mob/allay/item_given4",
+        "pitch": 1.7,
+        "volume": 0.4
+      }
+    ],
+    "subtitle": "subtitles.mushroomforest.mushroom_fairy.giggle"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "mushroomforest:giant_mushroom",
+  "cap_provider": {
+    "id": "mushroomforest:buttercup_mushroom_block",
+    "properties": {
+      "down": "true",
+      "east": "true",
+      "north": "true",
+      "south": "true",
+      "up": "true",
+      "west": "true"
+    }
+  },
+  "stem_provider": {
+    "id": "minecraft:mushroom_stem",
+    "properties": {
+      "down": "false",
+      "east": "true",
+      "north": "true",
+      "south": "true",
+      "up": "false",
+      "west": "true"
+    }
+  },
+  "shape": "parasol",
+  "min_height": 10,
+  "max_height": 17,
+  "min_radius": 4,
+  "max_radius": 7,
+  "lantern_chance": 0.5,
+  "lean_chance": 0.35,
+  "thick_stem_radius": 7
+}

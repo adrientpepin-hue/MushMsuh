@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:random_selector",
+  "default": {
+    "feature": "mushroomforest:giant_bell_buttercup",
+    "placement": []
+  },
+  "features": [
+    {
+      "chance": 0.25,
+      "feature": {
+        "feature": "mushroomforest:giant_bell_rosy",
+        "placement": []
+      }
+    },
+    {
+      "chance": 0.333333,
+      "feature": {
+        "feature": "mushroomforest:giant_bell_lavender",
+        "placement": []
+      }
+    },
+    {
+      "chance": 0.5,
+      "feature": {
+        "feature": "mushroomforest:giant_bell_azure",
+        "placement": []
+      }
+    }
+  ]
+}
